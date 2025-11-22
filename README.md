@@ -12,7 +12,7 @@ In this phase, you gather all essential hardware required to build the drone’s
 | 2 | Mini Cable Ties | 1 Pack | [Buy](https://makerbazar.in/products/mini-cable-tie?variant=48251215020272) |
 | 3 | 11.1V 3S Li-Po Battery | 1 | [Buy](https://makerbazar.in/products/generic-11-1volt-3s-lithium-polymer-batteries-pack-lipo-drone-battery?variant=48251014578416) |
 | 4 | XT60 Connector with Silicon Wire (10cm) | 1 | [Buy](https://makerbazar.in/products/xt60-connector-with-silicon-wire-10cm?variant=46152302625008) |
-| 5 | Propellers (CW + CCW Set) | 1 Set | [Buy](https://makerbazar.in/products/propellers-cw-ccw-2pcs-blade-per-pack?variant=46180345741552) |
+| 5 | Propellers (CW + CCW Set) | 2 Sets | [Buy](https://makerbazar.in/products/propellers-cw-ccw-2pcs-blade-per-pack?variant=46180345741552) |
 | 6 | A2212 Brushless DC Motor | 4 | [Buy](https://makerbazar.in/products/a2212-high-speed-brushless-dc-motor-bldc?variant=48251052458224) |
 | 7 | Q450 Quadcopter Frame | 1 | [Buy](https://makerbazar.in/products/quadcopter-frame-q450?variant=20305507614816) |
 | 8 | 30A ESC (Electronic Speed Controller) | 4 | [Buy](https://makerbazar.in/products/esc-30a?variant=18889846620256) |
